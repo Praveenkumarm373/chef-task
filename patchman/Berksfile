@@ -1,0 +1,5 @@
+source 'https://supermarket.getchef.com'
+
+metadata
+cookbook 'yum', '~> 5.1.0'
+cookbook 'apt', '~> 7.1.1'
